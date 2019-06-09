@@ -1,0 +1,14 @@
+.container {
+  position: relative;
+  width: 300px;
+  height: 500px;
+  /* overflow: hidden; */
+  border: 1px solid black;
+}
+.container object {
+  border: 1px solid black;
+  width: 100%;
+  width: 100%;
+  /* overflow: hidden; */
+  transition-duration: 1s;
+}
